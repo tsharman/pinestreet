@@ -1,6 +1,6 @@
 {	
 	"repo_type" : "regular",	
-	{
+	"builds" : {
 		"ms.psd" : [
 			{
 				"name" : "favicon16",
