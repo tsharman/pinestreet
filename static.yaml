@@ -1,0 +1,11 @@
+---
+  repo_type : "regular"
+  builds:
+    ms.psd:
+      -
+        name: "200x200"
+        description : "official logo222"
+        steps:
+          -
+            action : "scale"
+            target : 200
