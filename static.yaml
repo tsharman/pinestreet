@@ -9,3 +9,12 @@
           -
             action : "scale"
             target : 200
+
+        name: "width 400"
+        description : "official logo with width 400"
+        steps:
+          -
+            action : "scale"
+            target : 400
+
+
