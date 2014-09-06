@@ -8,13 +8,13 @@
         steps:
           -
             action : "scale"
-            target : 500
+            target : 100
       -
         name: "width 400 width"
         description : "official logo with width 400"
         steps:
           -
             action : "scale"
-            target : 500
+            target : 100
 
 
