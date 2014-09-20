@@ -22,6 +22,6 @@
         steps:
           -
             action : "scale"
-            target : 50
+            target : 20
 
 
