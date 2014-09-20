@@ -8,7 +8,7 @@
         steps:
           -
             action : "scale"
-            target : 400
+            target : 200
       -
         name: "width 100 width"
         description : "official logo with width 400"
