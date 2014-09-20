@@ -3,25 +3,25 @@
   builds:
     ms.psd:
       -
-        name: "200 width"
-        description : "official logo222"
+        name: "500 width"
+        description : "official logo500"
+        steps:
+          -
+            action : "scale"
+            target : 500
+      -
+        name: "width 200 width"
+        description : "official logo with width 200"
         steps:
           -
             action : "scale"
             target : 200
       -
         name: "width 100 width"
-        description : "official logo with width 400"
+        description : "official logo with width 100"
         steps:
           -
             action : "scale"
             target : 100
-      -
-        name: "width 500 width"
-        description : "official logo with width 400"
-        steps:
-          -
-            action : "scale"
-            target : 20
 
 
